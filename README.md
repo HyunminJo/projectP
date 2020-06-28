@@ -32,6 +32,8 @@
 -
 -
 
+![erd](https://user-images.githubusercontent.com/66407414/85943207-81e20780-b969-11ea-99d2-37f7f349bede.png)
+
 #
 
 # 담당페이지 설명 및 시연자료
